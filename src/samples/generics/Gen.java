@@ -8,7 +8,7 @@ package samples.generics;
 
 public class Gen<T> {
 
-    T ob; // Объявить объект типа T
+    private T ob; // Объявить объект типа T
 
     // Передать констркутору ссылку на объект типа T
     Gen(T ob) {

@@ -3,7 +3,7 @@ package samples.generics;
 // Класс Non Gen - функциональный эквивалент класса Gen без обобщений
 public class NonGen {
 
-    Object ob;
+    private Object ob;
 
     NonGen(Object ob) {
         this.ob = ob;
