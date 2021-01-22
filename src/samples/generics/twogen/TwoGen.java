@@ -1,4 +1,4 @@
-package samples.generics;
+package samples.generics.twogen;
 
 // Простой обобщенный класс с двумя параметрами типа: T и V
 

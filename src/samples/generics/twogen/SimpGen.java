@@ -1,4 +1,4 @@
-package samples.generics;
+package samples.generics.twogen;
 
 // Продемонстрировать применение класса TwoGen
 public class SimpGen {

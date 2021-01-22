@@ -1,4 +1,4 @@
-package samples.generics;
+package samples.generics.gen;
 
 // Продемонстрировать применение обобщенного класса
 public class GenDemo {

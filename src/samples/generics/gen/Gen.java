@@ -1,4 +1,4 @@
-package samples.generics;
+package samples.generics.gen;
 
 
 // Простой обобщенный класс.

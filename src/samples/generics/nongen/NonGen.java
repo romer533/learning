@@ -1,4 +1,4 @@
-package samples.generics;
+package samples.generics.nongen;
 
 // Класс Non Gen - функциональный эквивалент класса Gen без обобщений
 public class NonGen {

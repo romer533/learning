@@ -1,4 +1,4 @@
-package samples.generics;
+package samples.generics.nongen;
 
 // Продемонстрировать необобщенный класс
 public class NonGenDemo {
