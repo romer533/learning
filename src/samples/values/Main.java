@@ -9,8 +9,10 @@ public class Main {
         int[] arr = createRandomArray();
 
         Maximum max = new Maximum(arr);
+        Minimum min = new Minimum(arr);
 
         System.out.println("max = " + max.getMaximum());
+        System.out.println("min = " + min.getMinimum());
 
     }
 

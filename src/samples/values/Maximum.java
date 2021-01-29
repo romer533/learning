@@ -1,8 +1,5 @@
 package samples.values;
 
-import java.util.Arrays;
-import java.util.List;
-
 public class Maximum {
 
     private final int[] arr;
