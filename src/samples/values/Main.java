@@ -10,9 +10,11 @@ public class Main {
 
         Maximum max = new Maximum(arr);
         Minimum min = new Minimum(arr);
+        Average average = new Average(arr);
 
         System.out.println("max = " + max.getMaximum());
         System.out.println("min = " + min.getMinimum());
+        System.out.println("average = " + average.getAverage());
 
     }
 
